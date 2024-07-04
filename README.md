@@ -1,4 +1,4 @@
-## Olá, meu nome é Samuel Davi 📚
+## Olá Dev's ! 📚
 - Meu nome é Samuel Davi, mas podem me chamar de Smk, sou desenvolvedor de software Full-Stack desde 2023 e sou estritamente apaixonado na area da programação , matematica e qualquer assunto que necessite de  lógica.
   
  ## - Status :
