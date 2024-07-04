@@ -4,13 +4,14 @@
  ## - Status :
 
 
-![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKZIN&show_icons=true&theme=midnight-purple) <p>    ![ezgif com-animated-gif-maker(1)](https://github.com/SMKZIN/SMKZIN/assets/67834597/1c4c0eb9-54af-4843-906b-88c1d81c74b7)
+![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKZIN&show_icons=true&theme=midnight-purple)     
 
 
 
 
 
 ## - Hards Skills :
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -43,5 +44,5 @@
 
 - Menos é mais. Ser simples requer tempo e esforço - Jeff Bullas
 
- ![yeah-deadpool](https://github.com/SMKZIN/SMKZIN/assets/67834597/2d63774e-0efa-47be-bb73-ce2524c60c75)
+![ezgif com-resize](https://github.com/SMKZIN/SMKZIN/assets/67834597/42128eff-cf37-415b-9443-841e50e883ad)
 
