@@ -2,9 +2,9 @@
 - Meu nome é Samuel Davi, mas podem me chamar de Smk, sou desenvolvedor de software Full-Stack desde 2023 e sou estritamente apaixonado na area da programação , matematica e qualquer assunto que exige lógica.
   
  ## - Status :
- ![ezgif com-animated-gif-maker(1)](https://github.com/SMKZIN/SMKZIN/assets/67834597/1c4c0eb9-54af-4843-906b-88c1d81c74b7)
 
-![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKZIN&show_icons=true&theme=midnight-purple)   
+
+![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKZIN&show_icons=true&theme=midnight-purple) <p>    ![ezgif com-animated-gif-maker(1)](https://github.com/SMKZIN/SMKZIN/assets/67834597/1c4c0eb9-54af-4843-906b-88c1d81c74b7)
 
 
 
