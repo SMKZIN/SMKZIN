@@ -8,6 +8,8 @@
 
 
 
+ ![giphy](https://github.com/SMKZIN/SMKZIN/assets/67834597/440e3f80-c0ce-4fb0-aca1-aaccf76f4359)
+
 
 
 ## - Hards Skills :
