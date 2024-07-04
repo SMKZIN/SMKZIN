@@ -2,8 +2,13 @@
 - Meu nome é Samuel Davi, mas podem me chamar de Smk, sou desenvolvedor de software Full-Stack desde 2023 e sou estritamente apaixonado na area da programação , matematica e qualquer assunto que exige lógica.
   
  ## - Status :
- 
-![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKZIN&show_icons=true&theme=midnight-purple) 
+ ![ezgif com-animated-gif-maker(1)](https://github.com/SMKZIN/SMKZIN/assets/67834597/1c4c0eb9-54af-4843-906b-88c1d81c74b7)
+
+![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKZIN&show_icons=true&theme=midnight-purple)   
+
+
+
+
 
 ## - Hards Skills :
 <div style="display: inline_block"><br>
@@ -13,7 +18,12 @@
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
+  
+ </div>
+
+ <br>
+
+ ![hello-world-seytonic](https://github.com/SMKZIN/SMKZIN/assets/67834597/33093855-26e9-4f3a-b38e-9951c47ab359)
   
   
  ## - Contato :
@@ -30,4 +40,7 @@
 
 
 
+
 - Menos é mais. Ser simples requer tempo e esforço - Jeff Bullas
+
+  ![tomand](https://github.com/SMKZIN/SMKZIN/assets/67834597/feac04b8-e9df-484c-976c-2c0516d89876)
