@@ -43,4 +43,5 @@
 
 - Menos é mais. Ser simples requer tempo e esforço - Jeff Bullas
 
-  ![tomand](https://github.com/SMKZIN/SMKZIN/assets/67834597/feac04b8-e9df-484c-976c-2c0516d89876)
+ ![yeah-deadpool](https://github.com/SMKZIN/SMKZIN/assets/67834597/2d63774e-0efa-47be-bb73-ce2524c60c75)
+
