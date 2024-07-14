@@ -1,5 +1,5 @@
 ## <li> Olá Dev's ! 📚
-- Meu nome é Samuel Davi, mas podem me chamar de Smk, sou desenvolvedor de software Full-Stack desde 2023 e sou estritamente apaixonado na área da programação , matemática e qualquer assunto que necessite de lógica.
+- Olá, meu nome é Samuel Davi, conhecido como Smk. Sou desenvolvedor Full-Stack desde 2023, apaixonado por programação, matemática e lógica. Busco integrar soluções inovadoras e eficientes em meu trabalho diário. Comprometido em expandir meu conhecimento e habilidades, estou sempre em busca de desafios que impulsionem meu crescimento profissional. Estou disponível para discutir ideias e colaborar em projetos que exigem expertise técnica e criativa.
  
   ![33333](https://github.com/SMKZIN/SMKZIN/assets/67834597/cc1a2fb2-275a-4b95-b3ee-e83876eadf8b)
 
