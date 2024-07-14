@@ -16,7 +16,6 @@ Meu nome é Samuel Davi, conhecido como Smk. Sou desenvolvedor Full-Stack desde 
 - TypeScript
 - HTML5
 - CSS3
-- Python
 - Node.js
 
 ### Contato:
