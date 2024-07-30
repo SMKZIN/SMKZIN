@@ -12,11 +12,17 @@ Meu nome é Samuel Davi, conhecido como Smk. Sou desenvolvedor Full-Stack desde 
 
 ### Hard Skills:
 
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Node.js
+![icons8-texto-datilografado-48](https://github.com/user-attachments/assets/d94cf308-1234-4e2e-a477-32628cb9b036)
+![icons8-nodejs-48](https://github.com/user-attachments/assets/6e9c695b-bea7-47c1-9118-7065f3219980)
+![icons8-javascript-48](https://github.com/user-attachments/assets/75cccf9b-56fb-4a3d-b347-20909e014f26)
+![icons8-git-48](https://github.com/user-attachments/assets/2cf45911-a6f0-47bd-8824-6f16b8bbd8b9)
+![icons8-github-48](https://github.com/user-attachments/assets/0175b912-094e-4164-9e7d-3022e9c2bbb8)
+![icons8-linux](https://github.com/user-attachments/assets/2644d8e5-0e90-4c9b-af69-fad73a4e63ed)
+
+
+
+
+
 
 ### Contato:
 
