@@ -1,6 +1,18 @@
 ## Olá Dev's ! 📚
 
-Meu nome é Samuel Davi, conhecido como Smk. Sou desenvolvedor Full-Stack desde 2023, apaixonado por programação, matemática e lógica. Busco integrar soluções inovadoras e eficientes em meu trabalho diário. Comprometido em expandir meu conhecimento e habilidades, estou sempre em busca de desafios que impulsionem meu crescimento profissional.
+Desenvolvedor Full-Stack desde 2023, apaixonado por tecnologia, matemática e lógica. Trabalho com foco em performance, escalabilidade e organização de código — criando soluções robustas que conectam backend sólido com boas práticas de arquitetura.
+
+Atualmente, atuo com:
+
+    Node.js, TypeScript, NestJS
+
+    PostgreSQL, Prisma ORM
+
+    Docker para conteinerização
+
+    Jest para testes automatizados
+
+    APIs RESTful, integração com bancos de dados relacionais e modelagem clara de dados.
 
 ![Foto de perfil](https://github.com/SMKZIN/SMKZIN/assets/67834597/cc1a2fb2-275a-4b95-b3ee-e83876eadf8b)
 
