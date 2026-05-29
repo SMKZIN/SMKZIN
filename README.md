@@ -2,30 +2,34 @@
 
 # 👨‍💻 Samuel Davi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A970FF&center=true&vCenter=true&random=false&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+PostgreSQL;Building+Scalable+Backend+Applications;Clean+Architecture+%7C+REST+APIs+%7C+Docker" />
+<h3>
+Java Backend Developer • Spring Boot • REST APIs • Docker • PostgreSQL
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A970FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+PostgreSQL;Clean+Architecture+%7C+Docker+%7C+REST+APIs;Always+Learning+New+Technologies" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SMKZIN&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=SMKZIN&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 🧠 About Me
 
 ```java
 Backend Developer focused on scalable architecture,
-high-performance APIs and clean code practices.
+performance and clean code practices.
 ```
 
-Desenvolvedor Backend especializado em Java e ecossistema Spring, focado na construção de APIs RESTful escaláveis, arquitetura de software moderna e aplicações performáticas.
+Desenvolvedor Backend especializado em Java e ecossistema Spring, com foco em APIs RESTful, arquitetura moderna e aplicações performáticas.
 
-Atualmente aprofundando conhecimentos em microsserviços, segurança de aplicações, Docker e padrões avançados de desenvolvimento backend.
+Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring Security + JWT, Docker e padrões avançados de desenvolvimento backend.
 
 ---
 
@@ -35,10 +39,10 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança de aplicaç
 
 ### 💻 Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 
 ### 🗄 Database
 
@@ -58,17 +62,13 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança de aplicaç
 
 # 📈 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SMKZIN&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMKZIN&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
+<div align="center"> 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SMKZIN&theme=midnight-purple&hide_border=true&background=00000000"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=SMKZIN&theme=tokyonight&hide_border=true"/> </div>
 
-</div>
+---
+
 
 ---
 
@@ -76,7 +76,7 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança de aplicaç
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -111,6 +111,20 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança de aplicaç
 
 ---
 
+# 📌 Featured Projects
+
+<div align="center">
+
+| Project          | Description                                    |
+| ---------------- | ---------------------------------------------- |
+| Auth API         | Authentication API using Spring Security + JWT |
+| Task Manager API | RESTful task management backend                |
+| E-commerce API   | Scalable backend for e-commerce systems        |
+
+</div>
+
+---
+
 # 📫 Connect With Me
 
 <div align="center">
@@ -139,6 +153,6 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança de aplicaç
 
 <br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240"/>
 
 </div>
