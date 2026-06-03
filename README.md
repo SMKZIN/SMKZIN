@@ -3,10 +3,10 @@
 # 👨‍💻 Samuel Davi
 
 <h3>
-Java Backend Developer • Spring Boot • REST APIs • Docker • PostgreSQL
+Backend Developer • Node.js • TypeScript • NestJS • Prisma • PostgreSQL
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A970FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Java+%7C+Spring+Boot+%7C+PostgreSQL;Clean+Architecture+%7C+Docker+%7C+REST+APIs;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A970FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Node.js+%7C+NestJS+%7C+TypeScript;Prisma+%7C+PostgreSQL+%7C+Docker;Always+Learning+New+Technologies" />
 
 <br><br>
 
@@ -22,14 +22,29 @@ Java Backend Developer • Spring Boot • REST APIs • Docker • PostgreSQL
 
 # 🧠 About Me
 
-```java
-Backend Developer focused on scalable architecture,
-performance and clean code practices.
+```typescript
+const samuel = {
+  education: [
+    "Information Systems @ UFMG",
+    "Web Software Development @ Cubos Academy"
+  ],
+  role: "Backend Developer",
+  technologies: [
+    "Node.js",
+    "TypeScript",
+    "NestJS",
+    "Prisma",
+    "PostgreSQL",
+    "Docker"
+  ]
+};
 ```
 
-Desenvolvedor Backend especializado em Java e ecossistema Spring, com foco em APIs RESTful, arquitetura moderna e aplicações performáticas.
+Estudante de Sistemas de Informação na UFMG e formado em Desenvolvimento de Software Web pela Cubos Academy.
 
-Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring Security + JWT, Docker e padrões avançados de desenvolvimento backend.
+Atualmente desenvolvendo aplicações backend com Node.js, TypeScript e NestJS, aplicando boas práticas de arquitetura, APIs REST, integração com banco de dados e containerização com Docker.
+
+Tenho interesse em Engenharia de Software, Arquitetura de Sistemas, Microsserviços, Cloud Computing e desenvolvimento de aplicações escaláveis.
 
 ---
 
@@ -39,22 +54,21 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring 
 
 ### 💻 Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
 ### 🗄 Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### ⚙️ Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
@@ -62,13 +76,11 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring 
 
 # 📈 GitHub Analytics
 
-<div align="center"> 
-<br><br>
+<div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SMKZIN&theme=tokyonight&hide_border=true"/> </div>
+<img width="70%" src="https://streak-stats.demolab.com?user=SMKZIN&theme=tokyonight&hide_border=true"/>
 
----
-
+</div>
 
 ---
 
@@ -85,13 +97,14 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring 
 # 📚 Currently Learning
 
 ```yaml
-- Microservices Architecture
-- Spring Security + JWT
-- JPA/Hibernate
-- Docker & Containers
-- Automated Testing
-- Clean Architecture
+- Software Architecture
 - Design Patterns
+- Clean Architecture
+- Docker
+- Advanced TypeScript
+- NestJS Best Practices
+- Microservices
+- Cloud Computing
 ```
 
 ---
@@ -100,12 +113,13 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring 
 
 <div align="center">
 
-| Goal                                 | Status |
-| ------------------------------------ | ------ |
-| Build scalable backend systems       | 🚧     |
-| Improve software architecture skills | 🚀     |
-| Master Spring ecosystem              | 📚     |
-| Deepen distributed systems knowledge | ⚡      |
+| Goal                                   | Status |
+| -------------------------------------- | ------ |
+| Become a Software Engineer             | 🚀     |
+| Build scalable backend systems         | 🚧     |
+| Deepen software architecture knowledge | 📚     |
+| Learn cloud technologies               | ⚡      |
+| Contribute to open source projects     | 🎯     |
 
 </div>
 
@@ -115,11 +129,12 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring 
 
 <div align="center">
 
-| Project          | Description                                    |
-| ---------------- | ---------------------------------------------- |
-| Auth API         | Authentication API using Spring Security + JWT |
-| Task Manager API | RESTful task management backend                |
-| E-commerce API   | Scalable backend for e-commerce systems        |
+| Project                      | Description                               |
+| ---------------------------- | ----------------------------------------- |
+| Restaurant Management System | Digital order and table management system |
+| Authentication API           | JWT Authentication and Authorization      |
+| Task Manager API             | RESTful task management backend           |
+| Geoestável Dashboard         | Full-stack dashboard and API integration  |
 
 </div>
 
@@ -131,10 +146,6 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring 
 
 <a href="https://www.linkedin.com/in/samuel-davi-6b3b23232/">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/pvd_do_smkk/">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:samueldavi6306@gmail.com">
@@ -149,10 +160,6 @@ Atualmente aprofundando conhecimentos em microsserviços, segurança com Spring 
 
 <div align="center">
 
-> “First, solve the problem. Then, write the cleanest and most scalable solution possible.”
-
-<br>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240"/>
+> "Code is not just about making things work. It's about building solutions that remain maintainable, scalable and elegant over time."
 
 </div>
