@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Samuel Davi
+# 👋 Olá, eu sou Samuel Cruz
 
 ### Software Engineer | Node.js • Next.js • NestJS • TypeScript • PostgreSQL • Docker
 
